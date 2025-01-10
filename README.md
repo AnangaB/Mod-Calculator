@@ -17,7 +17,7 @@ A calculator allows you to perform addition, multiplication, subtraction, divisi
 
 ## Usage
 
-This calculator can be accessed at https://anangab.github.io/Mod_Calculator/ or can be done locally as described below:
+This calculator can be accessed at https://anangab.github.io/Mod-Calculator/ or can be done locally as described below:
 
 ```bash
 # Clone the repository to your local machine:
